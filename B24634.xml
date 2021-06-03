@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Enquiries for a parochial visitation in London.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24634</idno><idno type="EEBO-CITATION">99831900</idno>
+  <idno type="VID">206617</idno>
+  <idno type="EEBO-PROQUEST">2240896022</idno>
+  
+            <idno type="STC">Wing I209C</idno>
+            <idno type="PROQUEST">99831900</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831900e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206617)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1779:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Enquiries for a parochial visitation in London.</title>
+               </titleStmt>
+               <extent>7, [1]p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. James at the Printing-Press in Mincing-Lane.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a caption title and a colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clergy --  Early works to 1800.</term>
+               <term type="topical_term">Visitations, Ecclesiastical --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="enquiries">
+            <pb n="1" facs="tcp:206617:1"/>
+            <head>ENQUIRIES FOR A PAROCHIAL VISITATION IN LONDON.</head>
+            <p n="1">I. <seg rend="decorInit">I</seg>S there, or was there before the Fire within your Parish, or within the Parish or Parishes since annexed to it a Parso<g ref="char:EOLhyphen"/>nage or Vicaridge House or Houses for the Dwelling of your Minister? If it or they were burn down, are they since leas'd out and rebuilt? To whom? At what Ground-Rent, and for what Term? Have you a Survey or Map of it or them, and of the Yards and Gardens (if any) containing the exact Dimensions of them? Is the Lease or Lea<g ref="char:EOLhyphen"/>ses confirmed in due Form of Law? And where
+<pb n="2" facs="tcp:206617:2"/> are they registred? And have you any other Houses (besides your Residence House or Houses) or any other Glebes belonging to your Benefice; and what are they?</p>
+            <p n="2">II. IS the Annual Revenue (or Sum of Mo<g ref="char:EOLhyphen"/>ney in lieu of Tythes) which was settled by Act of Parliament 22 &amp; 23 <hi>Car.</hi> II. <hi>cap.</hi> 15. for the cer<g ref="char:EOLhyphen"/>tain Annual Maintenance of your Minister, as<g ref="char:EOLhyphen"/>sessed and ascertain'd, in such manner by such persons, and within such time as the said Act li<g ref="char:EOLhyphen"/>mits and appoints? And if not, thro whose de<g ref="char:EOLhyphen"/>fault was it? If the Assessment be made, are there Three Transcripts of it in Parchment subscribed by the Assessors, and sent to be laid up among the Records of the City, in the Registry of the Bi<g ref="char:EOLhyphen"/>shop of <hi>London,</hi> and in the Vestry of your Church? And what other Perquisites, Gifts, or Bequests (be<g ref="char:EOLhyphen"/>sides the said settled Maintenance) are, or were, be<g ref="char:EOLhyphen"/>fore that Settlement, due to your Minister and his Successors, from the Impropriator or any other persons?</p>
+            <p n="3">III. ARE there in the Re-building of the Ci<g ref="char:EOLhyphen"/>ty, or otherwise, any Encroachment made upon your Church or Church-Yard, or upon the Soil of the Church or Churches left unbuilt, or the Church-yards belonging to them? Is any part of
+<pb n="3" facs="tcp:206617:2"/> either put to common use? Or any part of them, or of the Ministers House, Houses, or Glebes, taken into any other Persons House, Yard or Passage? By whom, and by what Authority was it done?</p>
+            <p n="4">IV. WHAT Plate, Books, Bells, and other Furniture or Ornaments, have you belonging to your Church? Have you all such (at least) as the Rubrick and Canon expresly require? Are there true Inventaries of them kept, and from time to time duly examin'd? If any Church or Churches have been lately united to your present Parish-Church, what is become of the Plate, Books, Bells, and other Furniture of the Churches left unbuilt? As also of the Lead, Glass, Stone, Iron, or other Materials that remain'd after the Fire? And to what use is the Site or Soil of the unbuilt Churches now employ'd?</p>
+            <p n="5">V. HATH your Minister any other Benefice, with Cure of Souls, besides that of your Parish? Where and at what distance, and of what value is it? How doth he divide, and apportion his resi<g ref="char:EOLhyphen"/>dence to his several Cures? And when he is Resi<g ref="char:EOLhyphen"/>dent hereabouts, doth he constantly live in his Incumbent House, if there be one not leas'd out (or if he can conveniently hire it of the Lessee) or at least some where within the bounds of the Parish?</p>
+            <pb n="4" facs="tcp:206617:3"/>
+            <p n="6">VI. IF your Minister keeps a Curate to assist him, whether is he such an one as hath no Benefice of his own with Cure of Souls, from which he ab<g ref="char:EOLhyphen"/>sents himself? Is he duly licens'd by the Bishop? What Salary doth your Minister allow him? And when he reads Prayers, is your Minister himself constantly present at them?</p>
+            <p n="7">VII. Have you a Lecturer in your Church, and who is it? Was he before he entred upon his Le<g ref="char:EOLhyphen"/>cture, approv'd and licens'd according to the late Act of Uniformity? Doth he upon the first Sun<g ref="char:EOLhyphen"/>day in every Month, duly perform all that the said Act requires of him? Hath he any Benefice of his own with Cure of Souls elsewhere? What Sa<g ref="char:EOLhyphen"/>lary doth he receive from your Minister or Parish?</p>
+            <p n="8">VIII. Doth your Minister or his Curate (di<g ref="char:EOLhyphen"/>ligently and openly in the Church) catechise the Youth of your Parish on every Sunday in the Af<g ref="char:EOLhyphen"/>ternoon and Holydays, as the Rubrick and Canon require?</p>
+            <p n="9">IX. Is the different Use and Ministration of Publick and Private Baptisme duly observed by your Minister and Curate, according to the Dire<g ref="char:EOLhyphen"/>ctions in the Liturgy? Or do they make a com<g ref="char:EOLhyphen"/>mon practice of baptising Children in private
+<pb n="5" facs="tcp:206617:3"/> Houses? Or do it at any time without great cause and necessity, as the Rubrick limits it, that is (as the 69th Canon explains it) when they are duly without any manner of Collusion, informed of the weakness and danger of Death, of any Infant to be baptized? And when such need compels them to perform this great and solemn Office in private, do they use only the Form of Private Baptisme prescribed by the Liturgy? And as soon as the said necessity ceaseth, and it may safely be done, do they cause the Child so baptized, to be brought to Church, that the Congregation may be certified what Form of Baptisme was privately used, and that such supply may be made to the Office as is needful and appointed?</p>
+            <p n="10">X. Is the Holy Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per duly administred in your Church on the First Sunday in every Month, and especially at <hi>Easter, Whitsontide,</hi> and <hi>Christmass?</hi> And do your Church-wardens, or (in case they refuse or neg<g ref="char:EOLhyphen"/>lect) your Minister, present to the Ordinary faith<g ref="char:EOLhyphen"/>fully and impartially all such of your Parish as be<g ref="char:EOLhyphen"/>ing above the age of 16 years, do not receive that Holy Sacrament in your Parish Church, as is by Law directed?</p>
+            <p n="11">XI. When the Holy Communion is admini<g ref="char:EOLhyphen"/>stred, are the Alms and Oblations of Devout Per<g ref="char:EOLhyphen"/>sons
+<pb n="6" facs="tcp:206617:4"/> duly collected or received? Are they con<g ref="char:EOLhyphen"/>stantly disposed of to Pious and Charitable Uses, by the consent of the Minister and Churchward<g ref="char:EOLhyphen"/>ens; or if they disagree, by the appointment of the Ordinary? Is there an exact Account taken and kept in Writing of all such Sums as are given and received at the Offertory, or upon other Occasi<g ref="char:EOLhyphen"/>ons, put into the Chest for Alms? And how much hath been the last Year so given and received, and how is it disposed of?</p>
+            <p n="12">XII. What Bequests and Legacies, or other Charitable Gifts, have been by Will or otherwise, given to your Church or Poor, or to any Publick Use, within your Parish? How are they settled, and in whose hands? Is there a Memorial or Register kept of the Names of such Benefactors, and a par<g ref="char:EOLhyphen"/>ticular of the Sums by them given? And hath not their Charity been mis-imploy'd and diverted to other Uses?</p>
+            <p n="13">XIII. Have you a Register Book of Parch<g ref="char:EOLhyphen"/>ment, wherein the Names and Surnames of all Persons Christned, Married, or Buried, within your Parish; together with the Names and Surnames of both the Parents of the Children so Christned, and the Day, Month, and Year, of all such Christnings, Marriages, and Burials, are from time to time, du<g ref="char:EOLhyphen"/>ly
+<pb n="7" facs="tcp:206617:4"/> registred every Sunday, as the 70th Canon en<g ref="char:EOLhyphen"/>joyns? Have your Minister and Churchwardens subscribed their Names unto every Page of the said Book? Is it safely kept in a sure Coffer with Three Locks and Keys, so that neither the Mini<g ref="char:EOLhyphen"/>ster without the Churchwardens, nor the Church<g ref="char:EOLhyphen"/>wardens without the Minister, may at any time take it out of the said Coffer? And hath the Tran<g ref="char:EOLhyphen"/>script or true Copy thereof (subscribed as before) once every Year within One Month after the 25th of <hi>March,</hi> been transmitted unto the Ordinary to be faithfully preserved in the Registry of the Bishop?</p>
+            <p n="14">XIV. Doth your Minister or Curate presume to Marry any Persons in private Houses, or at un<g ref="char:EOLhyphen"/>due or uncanonical Hours? Or any whose Banns have not been first publish'd on Three Sundays or Holydays in the Church, unless he hath a Licence or Dispensation so to do? How many such Li<g ref="char:EOLhyphen"/>cences have they or either of them received and made use of within the Year last past? And (to su<g ref="char:EOLhyphen"/>persede all farther Questions about the regularity and validity of such Licences) let them be all pro<g ref="char:EOLhyphen"/>duced, that they may be view'd and examin'd by the Canons.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. James</hi> at the <hi>Printing-Press</hi> in <hi>Mincing-Lane.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
